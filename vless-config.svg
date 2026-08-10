@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="105" viewBox="0 0 1200 105">
+  <rect width="1200" height="105" rx="10" fill="#161b22"/>
+
+  <text x="20" y="38"
+        font-family="monospace"
+        font-size="15"
+        fill="#e6edf3">
+    <tspan>vless://</tspan>
+    <tspan fill="#ff4444">YOUR-UUID</tspan>
+    <tspan>@</tspan>
+    <tspan fill="#ff4444">YOUR-RAILWAYDOMAIN</tspan>
+    <tspan>:443/?encryption=none&amp;security=tls&amp;type=ws</tspan>
+  </text>
+
+  <text x="20" y="72"
+        font-family="monospace"
+        font-size="15"
+        fill="#e6edf3">
+    <tspan>host=</tspan>
+    <tspan fill="#ff4444">YOUR-RAILWAYDOMAIN</tspan>
+    <tspan>&amp;path=%2Fxray&amp;sni=</tspan>
+    <tspan fill="#ff4444">YOUR-RAILWAYDOMAIN</tspan>
+    <tspan>#Xray-Railway</tspan>
+  </text>
+</svg>
