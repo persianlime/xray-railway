@@ -106,6 +106,9 @@ You can use the following VLESS URI format:
 
 ```text
 vless://YOUR-UUID@YOUR-RAILWAY-DOMAIN:443?encryption=none&security=tls&type=ws&host=YOUR-RAILWAY-DOMAIN&sni=YOUR-RAILWAY-DOMAIN&path=%2Fvless#XRAY-Railway
+
+
+vless://YOUR-UUID@YOUR-RAILWAY-DOMAIN:443?encryption=none&security=tls&type=ws&host=YOUR-RAILWAY-DOMAIN&path=%2Fvless&sni=YOUR-RAILWAY-DOMAIN#XRAY-Railway
 ```
 
 
