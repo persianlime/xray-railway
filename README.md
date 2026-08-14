@@ -1,6 +1,8 @@
-XRAY-vless-websocket-tls-Railway.com
+XRAY-vless-websocket-tls in Railway.com
 
 after deploy
+
+goto setting->networking->Generate Domain
 
 add variables in railway.com
 
