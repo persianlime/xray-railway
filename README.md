@@ -8,8 +8,6 @@ This project allows you to run an **Xray VLESS server with WebSocket and TLS** o
 
 GitHub Repository:
 
-https://github.com/babakelectronic/xray-railway
-
 Deploy the repository to Railway.
 
 After deployment, follow the steps below.
